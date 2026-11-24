@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="760" viewBox="0 0 360 760">
+  <defs>
+    <linearGradient id="h3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f59e0b"/><stop offset="1" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="760" fill="#0b0b10"/>
+  <rect width="360" height="200" fill="url(#h3)"/>
+  <circle cx="60" cy="70" r="24" fill="#ffffff" fill-opacity="0.9"/>
+  <rect x="96" y="56" width="140" height="14" rx="7" fill="#ffffff"/>
+  <rect x="96" y="80" width="90" height="10" rx="5" fill="#ffffff" fill-opacity="0.8"/>
+  <rect x="24" y="150" width="312" height="90" rx="16" fill="#ffffff" fill-opacity="0.14"/>
+  <rect x="24" y="260" width="312" height="64" rx="14" fill="#ffffff" fill-opacity="0.06"/>
+  <rect x="24" y="336" width="312" height="64" rx="14" fill="#ffffff" fill-opacity="0.06"/>
+  <rect x="24" y="412" width="312" height="64" rx="14" fill="#ffffff" fill-opacity="0.06"/>
+  <text x="180" y="600" text-anchor="middle" font-family="monospace" font-size="16" fill="#ffffff" fill-opacity="0.35">DUMMY SCREEN</text>
+  <rect x="120" y="700" width="120" height="8" rx="4" fill="#ffffff" fill-opacity="0.25"/>
+</svg>
